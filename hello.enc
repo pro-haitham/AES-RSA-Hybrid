@@ -1,0 +1,6 @@
+{
+    "recipient": "alice",
+    "enc_key_b64": "mC6P+M4DHhP1hbl9KE77Tcq/NLpn2hkxUVG3S9wTg9ak0tJ8NaXm7zvaNX52KuWkePWfmqx9nnglw3Pj28lyEHzmSLqxlN8SFwcMZWrkQcVYgwQQYe8Ay4cIUUK8cMKkTB57b6Qic5T83MoyNR7PBCf73pyX+kNHuAvh5/OHEhGmtyZfuDbnTeJaYh6df7eZmbsANgNEFxg/4GiT9n0433AWcti3AXOtaAog1QVNkbwNc4bZM5rG9KM83yMyBrrSPyR9cGU3CmUuKoiIGIycCp43s0Z4L0YCsY9L1MXq74ydjdu5QJ50kuCcBze4kZWKLdw5eh5N4fVAdwyCCR2DIQ==",
+    "nonce_b64": "kHHUkkilKuGeq3Yq",
+    "ciphertext_b64": "mM5Bj6EG+CSgzz9ihjHzyUwy/Jo3+PmwXkGGKDqrwbmOtdBdJh69u60s2Q=="
+}
